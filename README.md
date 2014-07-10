@@ -17,7 +17,7 @@
 1. Clone .vim directory
 
     ```bash
-    git clone https://github.com/lrvick/dotvim.git ~/.vim
+    git clone https://github.com/picardrulez/vim.git ~/.vim
     ```
 2. Install submodules
 
