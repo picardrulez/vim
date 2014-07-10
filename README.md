@@ -1,17 +1,3 @@
-# lrvick's .vim setup #
-
-<http://github.com/lrvick/dotvim>
-
-![Screenshot](http://github.com/lrvick/dotvim/raw/master/screenshot.png)
-
-## About ##
-
-So let's face it. Stock Vim on most machines is pretty painful for a seasoned
-programmer. Things like managing history, proper language indention, syntax
-checking, auto complete etc., are just not there. To that end, here is my setup
-that I have lovingly refined through many years of vimming. Vim, with this
-setup, is the only IDE I use. (Yes, I just called Vim an IDE. Deal.)
-
 ## Current Features ##
 
   * NerdTree - nice tree-view file browsing [F2]
@@ -46,20 +32,3 @@ setup, is the only IDE I use. (Yes, I just called Vim an IDE. Deal.)
     echo "runtime vimrc" > ~/.vimrc
     ```
 
-## Notes ##
-
-  Use at your own risk. You may be eaten by a grue.
-
-  Questions/Comments?
-
-  You can find me on the web via:
-
-  [Email](mailto://lance@lrvick.net) |
-  [Blog](http://lrvick.net) |
-  [Twitter](http://twitter.com/lrvick) |
-  [Facebook](http://facebook.com/lrvick) |
-  [Google+](http://plus.google.com/109278148620470841006) |
-  [YouTube](http://youtube.com/lrvick) |
-  [Last.fm](http://last.fm/user/lrvick) |
-  [LinkedIn](http://linkedin.com/in/lrvick) |
-  [Github](http://github.com/lrvick/)
