@@ -12,20 +12,20 @@ set expandtab
 set tabstop=4
 set softtabstop=4
 set shiftwidth=4
-set textwidth=79
-set colorcolumn=79
+"set textwidth=79
+"set colorcolumn=79
 set spell spelllang=en_us
 set foldmethod=marker
 set rnu
 
-"nmap <Left> <<
-"nmap <Right> >>
-"vmap <Left> <gv
-"vmap <Right> >gv
-"nmap <Up> [e
-"nmap <Down> ]e
-"vmap <Up> [egv
-"vmap <Down> ]egv
+nmap <Left> <<
+nmap <Right> >>
+vmap <Left> <gv
+vmap <Right> >gv
+nmap <Up> [e
+nmap <Down> ]e
+vmap <Up> [egv
+vmap <Down> ]egv
 
 
 "Highlight end of line whitespace.
@@ -108,3 +108,4 @@ function! FileSize()
     return (bytes / 1024) . "K"
   endif
 endfunction
+set pastetoggle=<F10>
