@@ -37,3 +37,6 @@
 [submodule "bundle/vim-go"]
 	path = bundle/vim-go
 	url = git@github.com:fatih/vim-go
+[submodule "bundle/salt-vim"]
+    path = bundle/salt-vim
+    url = git@github.com:vmware-archive/salt-vim
